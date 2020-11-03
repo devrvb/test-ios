@@ -12,6 +12,7 @@ class MainViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        test()
     }
 
     private func test() {
