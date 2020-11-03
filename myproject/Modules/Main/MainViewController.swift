@@ -15,14 +15,17 @@ class MainViewController: UIViewController {
         test()
     }
 
-    private func test() {
+    private func test1() {
       let a = 0
       var b = 0
 
       b = b + 10
     }
 
-    private func test() {
-      print("teste")
+    private func test2() {
+      let a = 0
+      var b = 0
+
+      b = b + 10
     }
 }
