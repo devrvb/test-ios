@@ -9,8 +9,19 @@
 import UIKit
 
 class MainViewController: UIViewController {
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
+    }
+
+    private func test() {
+      let a = 0
+      var b = 0
+
+      b = b + 10
+    }
+
+    private func test() {
+      print("teste")
     }
 }
